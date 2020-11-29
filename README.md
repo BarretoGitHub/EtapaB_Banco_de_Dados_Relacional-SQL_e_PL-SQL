@@ -1,5 +1,5 @@
-# Etapa-B---Banco-de-Dados-Relacional---SQL-e-PLSQL
-# Objetivo: Demostrar conhecimentos básicos em banco de dados
+# Etapa B - Banco de Dados Relacional - SQL e PLSQL
+Objetivo: Demostrar conhecimentos básicos em banco de dados
 Habilidades desenvolvidas: 
 
 			- Subconsultas - JOIN
