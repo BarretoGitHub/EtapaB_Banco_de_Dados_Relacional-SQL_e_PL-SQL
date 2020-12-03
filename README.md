@@ -10,7 +10,6 @@ Objetivo: Demostrar conhecimentos básicos em banco de dados
 			- SGBD: SQL Developer - Oracle 
       
       
-Entrevista: Entelgy Brasil 2020: Venha ser um Entelgeer
 
 Candidato: Wesley Gabriel Barreto
 
